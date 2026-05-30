@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userrender",
+        "uuid": 1444575,
+        "checksum": "8ts16d"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
